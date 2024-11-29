@@ -14,6 +14,7 @@ body{
     justify-content: space-around;
     align-items: center;
     padding: 1rem 1rem;
+    position: sticky;
 }
 .logo {
     font-size: 1.5rem;
